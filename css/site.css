@@ -58,6 +58,7 @@ body {
 .btn-success:hover {
     transform: translateY(-2px);
     box-shadow: 0 0.5rem 1rem rgba(25, 135, 84, 0.3);
+    background-color: #205c40;
 }
 
 /* Estilo para os ícones de check na seção About */
