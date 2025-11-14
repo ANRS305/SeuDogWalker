@@ -24,6 +24,12 @@ body {
     color: #198754 !important; /* Verde Bootstrap success */
 }
 
+/* Efeito sombra */
+.navbar
+{
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.190) !important;
+}
+
 /* Estilo para links de navegação */
 .nav-link {
     transition: color 0.3s ease;
